@@ -20,6 +20,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             SegundoDiaTheme {
                 //Jesus Octavio Cervantes Contreras
+                //22130530
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
                         name = "Android",
